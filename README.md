@@ -1,7 +1,3 @@
-#include <stdio.h>
+#DEMO
 
-int main(int args, char * argv[])
-{
-  printf("Hello World!");
-  return 0;
-}
+This is first time, I'm try to use Git!
